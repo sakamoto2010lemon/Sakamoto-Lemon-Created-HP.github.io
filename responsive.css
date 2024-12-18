@@ -19,8 +19,8 @@
 
 @media all and (max-width: 670px) {
   .header-logo {
-    font-size: 80%;
-    margin-top: 10px;
+    font-size: 100%;
+    margin-top: 15px;
   }
   
   .content {
@@ -56,7 +56,7 @@
   }
 
   footer img {
-    width: 120%;
+    width: 100%;
   }
   
 }
