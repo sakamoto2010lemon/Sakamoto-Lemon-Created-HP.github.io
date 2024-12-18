@@ -18,6 +18,10 @@
 }
 
 @media all and (max-width: 670px) {
+  .header-logo {
+    font-size: 50%;
+  }
+  
   .content {
     width: 100%;
   }
